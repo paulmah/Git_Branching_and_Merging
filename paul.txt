@@ -1,0 +1,13 @@
+vincent created this git account for us >> https://github.com/CodersInc-UOA/
+
+
+get branch/merge coders' project >> git clone https://github.com/CodersInc-UOA/Git_Branching_and_Merging.git
+create your new branch >>
+        method 1 (use only method 1 or 2)
+                git branch paul  // create new branch
+                git checkout branch paul // switch to your branch
+        method 2
+                git checkout -b paul // create and use this branch
+create a txt file > josh.txt || sijo.txt
+modify any file the directory > two modifications on a file without a merge should cause a merge conflict under pull request.
+this should be resolved by someone that is not the person who caused the conflict.
